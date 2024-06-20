@@ -1,0 +1,41 @@
+[
+  {
+    "clientEmail": "pepe@gmail.com",
+    "projectType": "Landing Page",
+    "pages": 5,
+    "features": [
+      "Responsive Design",
+      "SEO Optimization",
+      "Custom Graphics",
+      "Content Creation",
+      "E-commerce Integration"
+    ],
+    "totalCost": 2000,
+    "id": "7739c374-693d-43ba-8174-7b543ad47a46"
+  },
+  {
+    "clientEmail": "pepe@gmail.com",
+    "projectType": "Landing Page",
+    "pages": 5,
+    "features": [
+      "Responsive Design",
+      "Custom Graphics"
+    ],
+    "totalCost": 1300,
+    "id": "62fd9836-4836-48ec-98d3-884f63396c2c"
+  },
+  {
+    "clientEmail": "pepe@gmail.com",
+    "projectType": "Landing Page",
+    "pages": 6,
+    "features": [
+      "Responsive Design",
+      "SEO Optimization",
+      "Custom Graphics",
+      "Content Creation",
+      "E-commerce Integration"
+    ],
+    "totalCost": 2100,
+    "id": "a1853d5d-6299-41b6-ae16-1874a93c32bb"
+  }
+]
