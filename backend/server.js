@@ -38,7 +38,7 @@ app.post('/api/clients', async (req, res) => {
     }
 });
 
-// Eliminar un cliente del archivo JSON 
+// Eliminar un cliente del archivo JSON  
 app.delete('/api/clients/:email', async (req, res) => {
     const { email } = req.params;
     try {
